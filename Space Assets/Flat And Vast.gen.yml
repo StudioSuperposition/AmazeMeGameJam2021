@@ -1,0 +1,10 @@
+type: perlin
+regions:
+  - limit: 0.5172413793103449
+    generator:
+      type: tile
+      uri: 'Spaceland.Space.Flat:/A. Stillness Of Space'
+  - limit: 1
+    generator:
+      type: tile
+      uri: 'HK-Classic:/HKC-Utilities/Blanks/hk-classic_123.png'
